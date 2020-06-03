@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+section {
+  max-width: 100%;
+}
+
+.wrapper {
+  max-width: 1000px;
+  width: 90%;
+}
+
+body {
+  font-size: 16px;
+}
+
+code {
+  font-size: 16px;
+  color: #C9947E;
+  padding: 0;
+}
+
+.center-image {
+  margin: 0 auto;
+  display: block;
+}
+
+.caution {
+  border-left-color: #FF4136;
+}
