@@ -157,7 +157,7 @@ Here is the [official documentation on the `Map` interface](https://docs.oracle.
 The most commonly used implementation of `Map` is `HashMap`. Here is how to instantiate it:
 
 ```java
-Map<String, Integer> myMap = new HashSet<>();
+Map<String, Integer> myMap = new HashMap<>();
 ```
 
 Here, between the angle brackets you see the type that is used for the keys and the type that is used for values.
