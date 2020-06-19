@@ -7,4 +7,4 @@ title: Table of contents
 - [02. Primitives](02-primitives)
 - [03. Arrays](03-arrays)
 - [04. Collections](04-collections)
-<!-- - [02. Constructors](02-constructors) -->
+- [05. Constructors](05-constructors)
