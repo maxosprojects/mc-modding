@@ -8,3 +8,4 @@ title: Table of contents
 - [03. Arrays](03-arrays)
 - [04. Collections](04-collections)
 - [05. Constructors](05-constructors)
+- [06. Logic](06-logic)
